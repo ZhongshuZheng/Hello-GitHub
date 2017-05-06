@@ -6,4 +6,8 @@ public class Main extends Exception
     {
         System.out.println("Hello GitHub!");
     }
+    
+    public static void Bingo() {
+        System.out.println("\n\n");
+    }
 }
